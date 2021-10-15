@@ -1,0 +1,8 @@
+p {
+    letter-spacing: .2rem;
+}
+
+i+b{
+    font-weight: bold; color: red;
+
+}
